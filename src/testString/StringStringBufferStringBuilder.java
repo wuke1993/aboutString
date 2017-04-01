@@ -3,7 +3,7 @@ package testString;
  * @author: wuke 
  * @date  : 2016年11月24日 上午10:41:08
  * Title  : StringStringBufferStringBuilder
- * Description : 
+ * Description : http://a938bfa8.wiz03.com/share/s/2Feb-E2jTQ542ELg8901DwAG2KXccD2TWk1O2PUKWX0MsB-w
  */
 public class StringStringBufferStringBuilder { 
      /** Creates a new instance of testssb */ 
